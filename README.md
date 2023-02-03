@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<img align="right" height="200" width="100"src="https://images.app.goo.gl/R5EGsi4wskTcRgAFA"> 
-<br/> 
+![This is an image](https://images.app.goo.gl/R5EGsi4wskTcRgAFA)
 
 Let's talk about me!
 
