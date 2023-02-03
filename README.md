@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-s file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently studying at Tekirdag Namık Kemal University Industrial Engineering.
 - 🌱 I’m currently learning Python.
