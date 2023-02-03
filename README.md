@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" height="200" width="100" alt="GIF" style="padding-right:10px;" src="https://media.tenor.com/SgQSyDGMAkYAAAAC/dna-spinning.gif"> 
+<img align="right" height="200" width="100" style="padding-right:10px;" src="https://images.app.goo.gl/R5EGsi4wskTcRgAFA"> 
 <br/> 
 
 Let's talk about me!
