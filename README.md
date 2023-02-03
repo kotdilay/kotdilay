@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **kotdilay/kotdilay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,7 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything.
 - 📫 How to reach me: **kotdilay@gmail.com**
 - ⚡ Fun fact: Dilay means ' moon which is brighten your heart '
--->
+
 
 <h2 align="center"> My Social Media Accounts  </h2>
 
